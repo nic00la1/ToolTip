@@ -39,14 +39,4 @@
     opacity: 1;
   }
   
-  .tooltip-icon {
-    border: 1px dotted black;
-    background-color: orange;
-    border-radius: 20px;
-    padding: 2px 10px;
-    color: white;
-    font-weight: bold;
-    font-size: 1.2em;
-    margin-left: 5px;
-    margin: 0px 20px 0px 0px;
-  }
+ 
